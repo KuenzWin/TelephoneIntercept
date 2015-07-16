@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="string_weekDays">
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期日</item>
+    </string-array>
+    <string-array name="string_strokeWidth">
+        <item>5px</item>
+        <item>10px</item>
+        <item>15px</item>
+        <item>20px</item>
+        <item>30px</item>
+        <item>35px</item>
+        <item>40px</item>
+    </string-array>
+
+</resources>
